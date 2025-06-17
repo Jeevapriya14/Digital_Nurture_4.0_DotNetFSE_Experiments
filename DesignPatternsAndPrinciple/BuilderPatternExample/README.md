@@ -30,12 +30,13 @@ The Builder Pattern is a **creational design pattern** that lets you construct c
 2. **Compile all Java files:**
    ```bash
    javac *.java
-3. **Run the program:**
-  ```bash
+3. **Run the Main class:**
+   ```bash
    java Main.java
 
 ## OUTPUT:
 
+![BUILDER PATTERN EXAMPLE OUTPUT](https://github.com/user-attachments/assets/d0246ccb-bca3-4a46-991c-d3c4ed562325)
 
 
 
