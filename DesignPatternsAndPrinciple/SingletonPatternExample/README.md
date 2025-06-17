@@ -37,7 +37,9 @@ The Singleton Pattern is a **creational design pattern** that restricts the inst
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/288e68a6-174f-4829-a415-d2f5fe6e3da2)
-![image](https://github.com/user-attachments/assets/0c945975-1139-441c-8ebf-bc87f41e53a3)
+![image](https://github.com/user-attachments/assets/b845a996-ea1f-4bda-be61-66ab02a68364)
+![image](https://github.com/user-attachments/assets/522baba4-5d41-4992-ad2b-cfe9de299847)
+
+
 
 
