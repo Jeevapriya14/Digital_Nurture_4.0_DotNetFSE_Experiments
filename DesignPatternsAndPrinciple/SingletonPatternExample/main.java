@@ -1,4 +1,4 @@
-public class TestLogger {
+public class Main {
     public static void main(String[] args) {
         Logger logger1 = Logger.getInstance();
         logger1.log("This is the first log message.");
