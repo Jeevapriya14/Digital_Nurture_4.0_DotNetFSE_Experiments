@@ -39,4 +39,8 @@ The Builder Pattern is a **creational design pattern** that lets you construct c
 ![BUILDER PATTERN EXAMPLE OUTPUT](https://github.com/user-attachments/assets/d0246ccb-bca3-4a46-991c-d3c4ed562325)
 
 
+![image](https://github.com/user-attachments/assets/68caa4e6-7b99-4d36-b6c1-c8267cd7edd7)
+
+
+
 
