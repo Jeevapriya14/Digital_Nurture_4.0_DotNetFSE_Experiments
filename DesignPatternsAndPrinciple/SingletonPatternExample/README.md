@@ -31,7 +31,7 @@ The Singleton Pattern is a **creational design pattern** that restricts the inst
 2. **Compile the Java files:**
    ```bash
    javac Logger.java Main.java
-3. Run the Main class:
+3. **Run the Main class:**
    ```bash
    java Main.java
 
