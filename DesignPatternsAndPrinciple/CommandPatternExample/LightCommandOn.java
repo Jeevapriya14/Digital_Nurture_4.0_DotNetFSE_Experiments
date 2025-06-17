@@ -1,7 +1,7 @@
 public class LightCommandOn implements Command {
     private Light light;
 
-    public LightOnCommand(Light light) {
+    public LightCommandOn(Light light) {
         this.light = light;
     }
 

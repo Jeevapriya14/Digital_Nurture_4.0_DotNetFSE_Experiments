@@ -2,8 +2,8 @@ public class Main {
     public static void main(String[] args) {
         Light livingRoomLight = new Light();
 
-        Command lightOn = new LightOnCommand(livingRoomLight);
-        Command lightOff = new LightOffCommand(livingRoomLight);
+        Command lightOn = new LightCommandOn(livingRoomLight);
+        Command lightOff = new LightCommandOff(livingRoomLight);
 
         RemoteControl remote = new RemoteControl();
 
