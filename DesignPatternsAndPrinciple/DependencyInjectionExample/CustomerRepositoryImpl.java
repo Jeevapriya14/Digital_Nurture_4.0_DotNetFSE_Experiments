@@ -3,6 +3,6 @@ public class CustomerRepositoryImpl implements CustomerRepository {
     @Override
     public Customer findCustomerById(int id) {
        
-        return new Customer(id, "Jeeva Priya");
+        return new Customer(id, "Jeevapriya");
     }
 }
