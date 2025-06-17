@@ -27,7 +27,7 @@ The Factory Method Pattern is a creational design pattern that defines an interf
 1. Compile all Java files:
    ```bash
    javac *.java
-```
+
 2. Run the Main class:
 
 java Main.java
