@@ -30,6 +30,8 @@ The Factory Method Pattern is a creational design pattern that defines an interf
 ```
 2. Run the Main class:
 
-```
 java Main.java
-```
+
+## OUTPUT:
+![Factory Method Pattern Output](https://github.com/user-attachments/assets/950136d8-945e-43e6-9e0b-889880432b40)
+
