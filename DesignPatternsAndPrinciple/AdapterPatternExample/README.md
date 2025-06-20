@@ -31,15 +31,15 @@ The Adapter Pattern is a structural design pattern that allows objects with inco
 
 1. Open terminal in the project directory.
 
-2. Compile all `.java` files:
-   ```bash
-   javac *.java
+
 2. Run the main class:
    ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/e7146caa-42ea-4de6-b7e4-007e148fbd88)
-![image](https://github.com/user-attachments/assets/210f85a5-f8c2-4db9-a785-f72192fc6ba1)
+![image](https://github.com/user-attachments/assets/62c3776e-0942-4969-8241-0f48b1d92c38)
+
+![image](https://github.com/user-attachments/assets/635d8f5d-dfd1-4d0a-91da-eb2a0a206f68)
+
 
 
