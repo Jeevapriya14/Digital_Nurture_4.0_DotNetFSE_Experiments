@@ -30,17 +30,24 @@ To demonstrate **Dependency Injection (DI)** in C# by decoupling a service from 
 
 ## How to Run
 
-### 1. Open terminal in the project directory
+1.Open terminal in the project directory
 
 ```bash
 cd DependencyInjectionExample
 
-
-## 2.Run main file:
-
+2.Run main file:
 ```bash
 dotnet run
 
 ### Output:
-![image](https://github.com/user-attachments/assets/2f709693-7926-42cd-a8e3-0976607a9ca4)
+
+
+
+
+![image](https://github.com/user-attachments/assets/dd4d6c3c-9af4-4882-99a7-97ba0c5e05e9)
+
+![image](https://github.com/user-attachments/assets/af5f3657-baba-4a24-9623-f93650356d2c)
+
+
+
 
