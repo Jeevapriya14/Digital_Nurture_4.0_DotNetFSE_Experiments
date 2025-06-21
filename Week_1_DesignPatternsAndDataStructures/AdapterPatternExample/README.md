@@ -43,5 +43,3 @@ The Adapter Pattern is a structural design pattern that allows objects with inco
 ![image](https://github.com/user-attachments/assets/635d8f5d-dfd1-4d0a-91da-eb2a0a206f68)
 
 
-
->>>>>>> ba24aa6588ba5ec8105115660b3b238f843fb92b:DesignPatternsAndPrinciple/AdapterPatternExample/README.md
