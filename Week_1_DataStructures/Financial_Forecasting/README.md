@@ -1,16 +1,16 @@
-# 📈 Exercise 7: Financial Forecasting using Recursion
+#  Exercise 7: Financial Forecasting using Recursion
 
-## ✅ Aim
+##  Aim
 To develop a financial forecasting tool in C# that predicts future value using a recursive growth model based on past data.
 
 ---
 
-## 📚 Understanding Recursive Algorithms
+##  Understanding Recursive Algorithms
 
-### 🔹 What is Recursion?
+###  What is Recursion?
 Recursion is a method where a function calls itself to solve a smaller instance of the same problem. It's useful for breaking down problems into simpler subproblems.
 
-### 🔹 Why Use It in Financial Forecasting?
+###  Why Use It in Financial Forecasting?
 - Models time-based problems naturally
 - Each year’s value depends on the previous year’s result
 - Clean and readable for growth-based computations
