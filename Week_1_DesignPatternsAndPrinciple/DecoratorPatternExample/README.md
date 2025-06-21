@@ -32,7 +32,7 @@ The Decorator Pattern is a structural design pattern that allows behavior to be 
 
 1. Open terminal in the project directory.
    ```bash
-   dotnet run
+   cd <PatternfileName>
 
 
 2. Run main code:
