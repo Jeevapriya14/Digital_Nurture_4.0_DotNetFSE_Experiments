@@ -24,17 +24,20 @@ The Factory Method Pattern is a creational design pattern that defines an interf
 ---
 
 ## How to Run
-1. Compile all Java files:
-   ```bash
-   javac *.java
 
-2. Run the Main class:
+1. Open terminal in the project directory.
+  
+
+
+2. Run main code:
    ```bash
-   java Main.java
+   dotnet run
+
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/ce21ddfd-5d0c-4b53-b4af-b73733a2c6b2)
-![image](https://github.com/user-attachments/assets/f78444cc-919d-44a3-90bb-a2ca778aa5e9)
+
+![image](https://github.com/user-attachments/assets/59aeff0f-6715-4a6e-beef-1d9a11dfed97)
+![image](https://github.com/user-attachments/assets/3063d9e2-227b-4449-98df-ee3cbc6bf8dc)
 
 
 

@@ -29,16 +29,16 @@ The Observer Pattern is a **behavioral design pattern** that defines a one-to-ma
 
 1. **Open your terminal and navigate to the project folder.**
 
-2. **Compile all Java files:**
+
+2. **Run main class:**
    ```bash
-   javac *.java
-3. **Run main class:**
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/87e24650-a5c9-4fb6-ae71-086aea2a557d)
-![image](https://github.com/user-attachments/assets/80aa4e82-988e-481d-bd60-4a55ff9b181f)
+![image](https://github.com/user-attachments/assets/a54923d7-a679-49d8-bc1d-4a0602486265)
+![image](https://github.com/user-attachments/assets/e5ce52a9-fc92-4901-ad0d-ffe198ff17d7)
+
+
 
 

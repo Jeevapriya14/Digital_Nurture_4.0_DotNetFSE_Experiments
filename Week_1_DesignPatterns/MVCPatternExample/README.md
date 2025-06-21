@@ -31,14 +31,14 @@ This separation allows independent development and maintenance of each component
 
 1. Open terminal in the project directory.
 
-2. Compile all `.java` files:
+
+2. Run main class:
    ```bash
-   javac *.java
-3. Run main class:
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/4beb8a97-4229-4121-887c-2eb78032ae4a)
-![image](https://github.com/user-attachments/assets/c428694e-0c13-49fa-8684-7d229595e5b5)
+![image](https://github.com/user-attachments/assets/0a59c327-787e-490a-99ac-d0665c02c518)
+![image](https://github.com/user-attachments/assets/5223a121-762d-4521-9b19-bf9f496f8765)
+
+
 

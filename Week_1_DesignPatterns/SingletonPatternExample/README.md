@@ -28,17 +28,18 @@ The Singleton Pattern is a **creational design pattern** that restricts the inst
 
 1. **Open your terminal and navigate to the project folder.**
 
-2. **Compile the Java files:**
+2. **Run the Main class:**
    ```bash
-   javac Logger.java Main.java
-3. **Run the Main class:**
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/b845a996-ea1f-4bda-be61-66ab02a68364)
-![image](https://github.com/user-attachments/assets/522baba4-5d41-4992-ad2b-cfe9de299847)
+![image](https://github.com/user-attachments/assets/b74647aa-d159-4915-89b0-abd71960ad90)
+![image](https://github.com/user-attachments/assets/5145b81b-8fb4-4908-99b1-3c0926995770)
+
+
+
+
 
 
 
