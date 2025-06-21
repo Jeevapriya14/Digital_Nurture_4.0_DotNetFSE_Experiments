@@ -31,6 +31,8 @@ The Decorator Pattern is a structural design pattern that allows behavior to be 
 ## How to Run
 
 1. Open terminal in the project directory.
+   ```bash
+   dotnet run
 
 
 2. Run main code:
