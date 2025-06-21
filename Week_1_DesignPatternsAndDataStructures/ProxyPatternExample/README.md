@@ -31,16 +31,16 @@ The Proxy Pattern is a **structural design pattern** that provides a placeholder
 
 1. **Open your terminal and navigate to the project folder.**
 
-2. **Compile all Java files:**
+
+2. **Run main class**
    ```bash
-   javac *.java
-3. **Run main class**
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/ee389e7f-c82e-4c76-ace8-98d6facbfba0)
-![image](https://github.com/user-attachments/assets/f7d7222e-80fb-4d17-a810-1d1091610d7e)
+![image](https://github.com/user-attachments/assets/520e911c-9ed7-4e6d-a7e8-a2d245d837e9)
+![image](https://github.com/user-attachments/assets/aa357d7e-31de-484e-b815-13502515e2fc)
+
+
 
 
  
