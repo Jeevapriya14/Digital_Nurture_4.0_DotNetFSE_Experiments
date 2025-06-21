@@ -1,11 +1,11 @@
-# 🗃️ Inventory Management System - C#
+# Inventory Management System - C#
 
-## ✅ Aim
+## Aim
 To implement an Inventory Management System in C# that efficiently handles adding, updating, deleting, and displaying warehouse products using appropriate data structures.
 
 ---
 
-## 📚 Problem Understanding
+## Problem Understanding
 
 ### 🔹 Why Data Structures & Algorithms?
 Efficient inventory systems require:
@@ -13,13 +13,13 @@ Efficient inventory systems require:
 - Scalable handling of thousands of product entries.
 Using the right data structure ensures these operations remain performant.
 
-### 🔹 Chosen Data Structure
+###  Chosen Data Structure
 - `Dictionary<int, Product>` is used to store products by `productId`.
 - It provides **O(1)** average time complexity for key operations like add, update, and delete.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - **Product.cs** – Defines the `Product` class with attributes and display method.
 - **Program.cs** – Contains the `InventorySystem` class with logic for:
@@ -31,9 +31,9 @@ Using the right data structure ensures these operations remain performant.
 
 ---
 
-## 🛠️ Implementation Overview
+##  Implementation Overview
 
-### 🔸 `Product.cs`
+###  `Product.cs`
 Defines a `Product` class with the following properties:
 - `ProductId` (int)
 - `ProductName` (string)
@@ -42,7 +42,7 @@ Defines a `Product` class with the following properties:
 
 Includes a constructor and `ToString()` method for easy display.
 
-### 🔸 `Program.cs`
+###  `Program.cs`
 Implements an `InventorySystem` class that supports:
 - `AddProduct(Product product)`
 - `UpdateProduct(int productId, string newName, int newQty, double newPrice)`
@@ -53,7 +53,7 @@ Implements an `InventorySystem` class that supports:
 
 ---
 
-## 🚀 How to Run:
+##  How to Run:
 1. Open terminal in the project directory.
   
 
