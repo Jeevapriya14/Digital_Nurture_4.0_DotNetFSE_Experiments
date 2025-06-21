@@ -7,7 +7,7 @@ To implement an Inventory Management System in C# that efficiently handles addin
 
 ## Problem Understanding
 
-### 🔹 Why Data Structures & Algorithms?
+###  Why Data Structures & Algorithms?
 Efficient inventory systems require:
 - Fast retrieval, insertion, and deletion.
 - Scalable handling of thousands of product entries.
