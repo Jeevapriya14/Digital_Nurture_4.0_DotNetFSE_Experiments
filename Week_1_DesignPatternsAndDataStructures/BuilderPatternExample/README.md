@@ -27,19 +27,18 @@ The Builder Pattern is a **creational design pattern** that lets you construct c
 
 1. **Open your terminal and navigate to the project folder.**
 
-2. **Compile all Java files:**
+
+2. **Run the Main class:**
    ```bash
-   javac *.java
-3. **Run the Main class:**
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
 
-![BUILDER PATTERN EXAMPLE OUTPUT](https://github.com/user-attachments/assets/d0246ccb-bca3-4a46-991c-d3c4ed562325)
+![image](https://github.com/user-attachments/assets/74ea5b86-0a86-46b8-a65e-46046394917e)
 
 
-![image](https://github.com/user-attachments/assets/68caa4e6-7b99-4d36-b6c1-c8267cd7edd7)
+![image](https://github.com/user-attachments/assets/ef8d7271-97d1-4db4-8e36-b1a81c351539)
+
 
 
 

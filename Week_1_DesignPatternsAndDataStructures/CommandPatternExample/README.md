@@ -27,16 +27,15 @@ The Command Pattern is a **behavioral design pattern** that turns a request into
 
 1. **Open your terminal and navigate to the project folder.**
 
-2. **Compile all Java files:**
+2. **Run main class:**
    ```bash
-   javac *.java
-3. **Run main class:**
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/564e471c-2bd0-4c0a-b6ee-7362070cf4ec)
-![image](https://github.com/user-attachments/assets/e584b38a-7522-4727-bf2d-ab6dc7c25f7d)
+![image](https://github.com/user-attachments/assets/3b576a53-c855-4902-b5e7-15a6777ca935)
+![image](https://github.com/user-attachments/assets/a21e6c19-fe24-438b-ac36-eb4147d37e72)
+
+
 
 
