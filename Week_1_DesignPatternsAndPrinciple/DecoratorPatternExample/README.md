@@ -32,12 +32,10 @@ The Decorator Pattern is a structural design pattern that allows behavior to be 
 
 1. Open terminal in the project directory.
 
-2. Compile all `.java` files:
+
+2. Run main code:
    ```bash
-   javac *.java
-3. Run main code:
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/f2623e11-fac6-44da-a15c-a821a80dbaae)
