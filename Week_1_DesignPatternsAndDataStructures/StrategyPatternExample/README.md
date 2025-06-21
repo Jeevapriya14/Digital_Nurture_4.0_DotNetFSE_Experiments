@@ -28,14 +28,14 @@ The Strategy Pattern is a **behavioral design pattern** that enables selecting a
 
 1. **Open your terminal and navigate to the project folder.**
 
-2. **Compile all Java files:**
+
+2. **Run the main class:**
    ```bash
-   javac *.java
-3. **Run the main class:**
-   ```bash
-   java Main.java
+   dotnet run
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/00679779-df96-4e44-83e8-40f4c5ff3217)
-![image](https://github.com/user-attachments/assets/6e4ef577-eb8d-480b-9fba-67440ad21c31)
+![image](https://github.com/user-attachments/assets/0f351ed8-05c0-427d-9f28-9a2fad2a9488)
+![image](https://github.com/user-attachments/assets/d0d08033-4833-4f98-94ff-81a090e59d5c)
+
+
 
