@@ -23,12 +23,12 @@ public class Employee
 
 public class EmployeeManagement
 {
-    private Employee[] employees;
+    private Employee?[] employees;
     private int count;
 
     public EmployeeManagement(int capacity)
     {
-        employees = new Employee[capacity];
+        employees = new Employee?[capacity];
         count = 0;
     }
 
@@ -45,11 +45,11 @@ public class EmployeeManagement
         }
     }
 
-    public Employee SearchEmployee(int id)
+    public Employee? SearchEmployee(int id)
     {
         for (int i = 0; i < count; i++)
         {
-            if (employees[i].EmployeeId == id)
+            if (employees[i]?.EmployeeId == id)
             {
                 return employees[i];
             }
@@ -61,7 +61,8 @@ public class EmployeeManagement
     {
         for (int i = 0; i < count; i++)
         {
-            Console.WriteLine(employees[i]);
+            if (employees[i] != null)
+                Console.WriteLine(employees[i]);
         }
     }
 
@@ -70,7 +71,7 @@ public class EmployeeManagement
         int index = -1;
         for (int i = 0; i < count; i++)
         {
-            if (employees[i].EmployeeId == id)
+            if (employees[i]?.EmployeeId == id)
             {
                 index = i;
                 break;
@@ -108,8 +109,10 @@ class Program
 
         Console.WriteLine("\nSearching for Employee ID 2:");
         var emp = system.SearchEmployee(2);
-        if (emp != null) Console.WriteLine(emp);
-        else Console.WriteLine("Not found");
+        if (emp != null)
+            Console.WriteLine(emp);
+        else
+            Console.WriteLine("Not found");
 
         Console.WriteLine("\nDeleting Employee ID 2...");
         system.DeleteEmployee(2);
